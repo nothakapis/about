@@ -4,7 +4,6 @@ Hi 👋 My name is nothuyapis
 Professional Python & Java developer
 ------------------------------------
 
-*   🌍  I'm based in Israel
 *   ✉️  You can contact me at [nothuyapis@gmail.com](mailto:nothuyapis@gmail.com)
 
 ### Skills:
